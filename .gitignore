@@ -5,3 +5,8 @@ debug.log
 node_modules/
 public/
 .deploy/
+
+# vim
+*.swp
+*.swo
+*~

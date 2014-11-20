@@ -87,4 +87,6 @@ exclude_generator:
 deploy:
   type: github
   repo: https://github.com/vbvyas/hexo-blog.git
+  type: heroku
+  repo: # heroku git url
   branch: master

@@ -1,9 +1,11 @@
-hexo-blog
-=========
+# hexo-blog
 
 Blog using hexo framework.
 
-To run:
+## Installation
 
     npm install
+
+## Running
+
     hexo server
